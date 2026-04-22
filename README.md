@@ -218,10 +218,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn shap s
 
 ## Author
 
-**Elvis**  
+**Shazaib Rehman**  
 Machine Learning | Health Data Science
-
-[LinkedIn](#) | [GitHub](#)
 
 ---
 
